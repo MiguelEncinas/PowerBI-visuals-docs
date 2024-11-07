@@ -1,3 +1,6 @@
+Agregando cambios
+
+
 #Microsoft Power BI Visuals API
 
 This guide is meant to provide the quickest path to creating your first Power BI visual.
